@@ -1,6 +1,8 @@
 # Demo_APIM_SI_websocket
 demo of websocket API using RabbitMQ, WSO2 Streaming Integrator, WSO2 APIM
 
+![Picture](Image.png)
+
 ## Prerequisites:
 
 Install WSO2 API Manager 3.2.0 
