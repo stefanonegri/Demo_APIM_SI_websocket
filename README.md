@@ -1,7 +1,7 @@
 # Demo_APIM_SI_websocket
 demo of websocket API using RabbitMQ, WSO2 Streaming Integrator, WSO2 APIM
 
-![Picture](Image.png)
+![Picture](demo websocket.jpeg)
 
 ## Prerequisites:
 
